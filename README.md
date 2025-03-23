@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      :aYan
+- ➪ 𝗡𝗔𝗠𝗘      :NI R OB
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,11 +48,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [AYAN](www.xnxx.com/)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- Yung Zhen
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [Shor Magi 😞](www.xvideos.com)
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- nai
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
