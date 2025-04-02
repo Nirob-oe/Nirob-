@@ -24,7 +24,7 @@ config: {
       nick: 'COPY NINJA '
     };
 
-    const bold = 'https://imgur.com/gallery/kakashi-hatake-xuGx6cE'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/TJRwjCv.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
