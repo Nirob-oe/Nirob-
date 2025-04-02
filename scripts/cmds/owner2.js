@@ -24,7 +24,7 @@ config: {
       nick: 'KAKASHI'
     };
 
-    const bold = 'https://i.imgur.com/bIVvTjU.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://imgur.com/a/PhVIMZ3'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
