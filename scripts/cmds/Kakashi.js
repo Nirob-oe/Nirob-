@@ -1,6 +1,6 @@
 module.exports = {
 config: {
-name: "aYan",
+name: "kakashi",
 version: "1.0",
 author: "aYan",
 countDown: 5,
