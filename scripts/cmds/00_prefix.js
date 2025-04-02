@@ -19,10 +19,10 @@ body: `
 ‣𝐘𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐫𝐞𝐟𝐢𝐱:. 
 
 ‣ 𝐀𝐝𝐦𝐢𝐧 
-‣ Ă̈Y̆̈Ă̈N̆̈ /Mahid
+‣ kakashi/nirob
 
 ‣ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 ⓕ
-‣LaFie Ayan 
+‣KAKASHI HATAKE 
 \n\n\n  `,
 attachment: await global.utils.getStreamFromURL("https://i.imgur.com/yCkColX.jpeg")
 });
