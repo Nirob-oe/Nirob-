@@ -140,4 +140,4 @@ module.exports = {
     }
 
     // Handling reaction triggers based on certain text patterns
-    const reactions = ["haha",] 
+    const reactions = ["haha"] 
