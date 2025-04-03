@@ -1,6 +1,6 @@
 module.exports = {
 config: {
-name: "Google",
+name: "nirob",
 version: "1.0",
 author: "AceGun",
 countDown: 5,
