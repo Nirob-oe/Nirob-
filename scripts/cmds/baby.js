@@ -5,8 +5,8 @@ const baseApiUrl = async () => {
 };
 
 module.exports.config = {
-  name: "bby",
-  aliases: ["baby", "bbe", "babe"],
+  name: "kakashi",
+  aliases: ["kakashi", "sensei", "Kakashi sensei"],
   version: "6.9.0",
   author: "dipto",
   countDown: 0,
@@ -26,7 +26,7 @@ module.exports.onStart = async ({ api, event, args, usersData }) => {
 
   try {
     if (!args[0]) {
-      const ran = ["Bolo baby", "hum", "type help baby", "type !baby hi"];
+      const ran = ["Bolo ", "hum", "type help kakashi", "type !  hi"];
       return api.sendMessage(ran[Math.floor(Math.random() * ran.length)], event.threadID, event.messageID);
     }
 
