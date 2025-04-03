@@ -26,7 +26,7 @@ module.exports = {
 			const videos = response.data.data.videos;
 			if (!videos || videos.length === 0) return api.sendMessage("No videos found for the provided username.🐤", event.threadID, event.messageID);
 			const options = videos.map((video, index) => `${index + 1}. ${video.title}`);
-			const message = `❤‍🩹 Choose an option Baby <💝\n` + `✿━━━━━━━━━━━━━━━━━✿\n${options.join("\n")}\n✿━━━━━━━━━━━━━━━━━━✿`;
+			const message = `❤‍🩹 Choose an option <💝\n` + `✿━━━━━━━━━━━━━━━━━✿\n${options.join("\n")}\n✿━━━━━━━━━━━━━━━━━━✿`;
 			const photoUrls = [];
 			const filenames = [];
 			for (let i = 0; i < limit; i++) {
@@ -69,7 +69,7 @@ module.exports = {
 				const filename = __dirname + `/cache/dipto_video.mp4`;
 				fs.writeFileSync(filename, Buffer.from(videoResponse.data, 'binary'));
 				api.sendMessage({
-					body: `Naw Baby Tiktok video <🐥`,
+					body: `Naw tumar Tiktok video <🐥`,
 					attachment: fs.createReadStream(filename)
 				}, event.threadID, () => {
 					fs.unlinkSync(filename);
