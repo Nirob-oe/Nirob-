@@ -56,6 +56,6 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/BAYJID-404-BOYZ"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://github.com/Nirob-oe"><img align="left" title="Facebook" alt="Facebook" width="30x" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/thv_zhen?igsh=b3NmZ3M1N2dqN2Rp"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://github.com/Nirob-404/notfound"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://github.com/Nirob-404/notfound"><img align="left" title="Facebook" alt="Facebook" width="30x" src="https://raw.githubusercontent.com/404/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/thv_zhen?igsh=b3NmZ3M1N2dqN2Rp"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/404/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
