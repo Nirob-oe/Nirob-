@@ -1,7 +1,7 @@
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px">  -𝗕𝗢𝗧 -  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
-<p align="center"><img src="https://img.shields.io/badge/I Am KAKASHI - COPY NINJA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I Am KAKASHI HATAKE - THE COPY NINJA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
