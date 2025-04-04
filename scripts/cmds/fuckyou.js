@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "fuck") {
  return message.reply({
  body: "Fuck you too🖕",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/9bNeakd.gif")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/g0NycJs.gif")
  });
  }
  }
