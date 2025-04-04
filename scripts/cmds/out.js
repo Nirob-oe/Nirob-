@@ -25,6 +25,6 @@ id = event.threadID;
 } else {
 id = parseInt(args.join(" "));
 }
-return api.sendMessage('▣𝗔𝗬𝗔𝗡 𝗕𝗢𝗧 𝗟𝗘𝗔𝗩𝗘:\n》Ami toder sukh dewar jonno Ashchilam tora etar joggo na.\n\n➤𝗕𝗘𝗬 𝗟𝗘𝗦 𝗡𝗔𝗭𝗘𝗦', id, () => api.removeUserFromGroup(api.getCurrentUserID(), id))
+return api.sendMessage('▣ KAKASHI 🥷🏻 BOT 𝗟𝗘𝗔𝗩𝗘:\n》Ami toder sukh dewar jonno Ashchilam tora etar joggo na.\n\n➤BEY GRLAM GA', id, () => api.removeUserFromGroup(api.getCurrentUserID(), id))
 }
 }
