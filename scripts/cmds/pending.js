@@ -36,7 +36,7 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
     if (isNaN(body) && body.indexOf("c") == 0 || body.indexOf("cancel") == 0) {
         const index = (body.slice(1, body.length)).split(/\s+/);
         for (const NIROBIndex of index) {
-            console.log(ArYanIndex);
+            console.log(NIROBIndex);
             if (isNaN(NIROBIndex) || NIROBIndex <= 0 || NIROBIndex > Reply.pending.length) return api.sendMessage(getLang("invaildNumber", NIROBIndex), threadID, messageID);
             api.removeUserFromGroup(api.getCurrentUserID(), Reply.pending[NIROBIndex - 1].threadID);
             count+=1;
@@ -46,7 +46,7 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
     else {
         const index = body.split(/\s+/);
         for (const NIROBIndex of index) {
-            if (isNaN(ArYanIndex) || ArYanIndex <= 0 || NIROBIndex > Reply.pending.length) return api.sendMessage(getLang("invaildNumber", NIROBIndex), threadID, messageID);
+            if (isNaN(NIROBIndex) || NIROBIndex <= 0 || NIROBIndex > Reply.pending.length) return api.sendMessage(getLang("invaildNumber", NIROBIndex), threadID, messageID);
             api.sendMessage(`♦⪼  𝗖óก𝕟૯τ૯𝕕  ⪻♦ 
 ╭──────────────⭓
 │‣ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐩𝐫𝐞𝐟𝐢𝐱: . 
