@@ -36,9 +36,9 @@ module.exports = {
 
 async function bal(one, two) {
 
- let avone = await jimp.read(`https://graph.facebook.com/${one}/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`)
+ let avone = await jimp.read(``)
  avone.circle()
- let avtwo = await jimp.read(`https://graph.facebook.com/${two}/picture?width=512&height=512&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`)
+ let avtwo = await jimp.read(``)
  avtwo.circle()
  let pth = "fucked.png"
  let img = await jimp.read("https://i.ibb.co/YpR7Bpv/image.jpg")
