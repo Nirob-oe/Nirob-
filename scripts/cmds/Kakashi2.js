@@ -1,6 +1,6 @@
 module.exports = {
 config: {
-name: "nirob",
+name: "kakashi2",
 version: "1.0",
 author: "AceGun",
 countDown: 5,
