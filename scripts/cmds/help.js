@@ -64,7 +64,7 @@ module.exports = {
       msg += ``;
       msg += `\n╭─────✰\n│ ╣[KALASHI 🥷🏻]╠\n╰────────────✰`; 
 
-const helpListImages = [ "https://i.imgur.com/a3JShJK.jpeg" ];
+const helpListImages = [ "https://i.imgur.com/noIHusM.jpeg" ];
 
 
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
