@@ -1,7 +1,7 @@
 const fs = require('fs');const moment = require('moment-timezone');
 module.exports = {
   config: {
-    name: "info",
+    name: "info2",
     aliases: ["inf", "in4"],
     version: "2.0",
     author: "VEX_ADNAN",
