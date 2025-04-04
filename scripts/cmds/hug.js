@@ -73,7 +73,7 @@ module.exports = {
 			if ((uid1 === '100081658294585' || uid2 === '100081658294585') && (uid1 !== '100010335499038' && uid2 !== '100010335499038')) {
 	uid1 = '100010335499038';
 	uid2 = '100081658294585';
-	message.reply("sorry🥱💁\n\nI only hug SiAM 😌💗");
+	message.reply("sorry🥱💁\n\nI only hug you 😌💗");
 							}
 
 				const userInfo1 = await api.getUserInfo(uid1);
